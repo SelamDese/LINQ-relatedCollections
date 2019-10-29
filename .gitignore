@@ -1,1 +1,7 @@
 # LINQ-relatedCollections
+.DS_Store
+bin
+obj
+*.db
+*.sqlite3
+.vscode
